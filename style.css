@@ -1,0 +1,29 @@
+
+h1{
+    color: red;
+font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+h2,h3{
+    color: orange;
+    font-size: 38 px;
+    text-align: center;
+    font-family: monospace;
+}
+h4{
+    color: red;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: blue;
+}
+.pizza{
+    width: 100px;
+    height: 100px;
+}
